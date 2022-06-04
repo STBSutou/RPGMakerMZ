@@ -11,7 +11,7 @@
   http://opensource.org/licenses/mit-license.php
 
   更新履歴 - update history
-    v0.0.1 2021/04/27
+    v0.9.0 2021/04/27
 */
 
 /*:ja
